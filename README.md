@@ -22,3 +22,9 @@ Run the streamlit app
 
 ## To get the raw output run the file main.py
 ```python main.py```
+
+## Sample video
+
+
+https://github.com/fatemaker254/Medicine-Recommendation-ChatBot/assets/81921058/3baa5bb1-cd7a-44c0-99fd-40c76e6652db
+
